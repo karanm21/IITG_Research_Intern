@@ -1,5 +1,5 @@
 ## IITG_Research_Intern
-Enabling Low Power Cardiac Arrhythmia Classification on Wearable
+~Enabling Low Power Cardiac Arrhythmia Classification on Wearable
 Devices
 
 Cardiovascular diseases (CVD) are one of the primary causes of mortality worldwide, causing millions
